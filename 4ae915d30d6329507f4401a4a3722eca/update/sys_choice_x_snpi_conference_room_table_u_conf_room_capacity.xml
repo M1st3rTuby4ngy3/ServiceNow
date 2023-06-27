@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_conf_room_capacity" table="x_snpi_conference_room_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_conf_room_capacity</element>
+            <name>x_snpi_conference_room_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:02:21</sys_created_on>
+            <sys_id>7f6fd51f0d6329507f4401a4a3722e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_conf_room_capacity</sys_name>
+            <sys_package display_value="Conference Room" source="x_snpi_conference">4ae915d30d6329507f4401a4a3722eca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Room">4ae915d30d6329507f4401a4a3722eca</sys_scope>
+            <sys_update_name>sys_choice_x_snpi_conference_room_table_u_conf_room_capacity</sys_update_name>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-25 21:02:21</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_conf_room_capacity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 people</label>
+            <language>en</language>
+            <name>x_snpi_conference_room_table</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:02:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b46f51db0d6329507f4401a4a3722e12</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-26 22:48:33</sys_updated_on>
+            <value>4 people</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_conf_room_capacity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8 people</label>
+            <language>en</language>
+            <name>x_snpi_conference_room_table</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:02:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>487f1d9b0d6329507f4401a4a3722ec9</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-26 22:48:37</sys_updated_on>
+            <value>8 people</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_conf_room_capacity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12 people</label>
+            <language>en</language>
+            <name>x_snpi_conference_room_table</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:02:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e77f1d9b0d6329507f4401a4a3722eca</sys_id>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-26 22:48:43</sys_updated_on>
+            <value>12 people</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_conf_room_capacity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>16 people</label>
+            <language>en</language>
+            <name>x_snpi_conference_room_table</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:52:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>713aad1b0da329507f4401a4a3722e88</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-26 22:48:48</sys_updated_on>
+            <value>16 people</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_conf_room_capacity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>More than 16 people</label>
+            <language>en</language>
+            <name>x_snpi_conference_room_table</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>Okera.Tubyangye</sys_created_by>
+            <sys_created_on>2023-06-25 21:02:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>198fd19b0d6329507f4401a4a3722e73</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>Okera.Tubyangye</sys_updated_by>
+            <sys_updated_on>2023-06-26 22:48:55</sys_updated_on>
+            <value>More than 16 people</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
