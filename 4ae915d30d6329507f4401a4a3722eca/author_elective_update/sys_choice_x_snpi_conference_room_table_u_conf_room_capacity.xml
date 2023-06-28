@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>Okera.Tubyangye</sys_created_by>
             <sys_created_on>2023-06-25 21:02:21</sys_created_on>
-            <sys_id>7f6fd51f0d6329507f4401a4a3722e83</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_conf_room_capacity</sys_name>
             <sys_package display_value="Conference Room" source="x_snpi_conference">4ae915d30d6329507f4401a4a3722eca</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-06-25 21:02:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b46f51db0d6329507f4401a4a3722e12</sys_id>
             <sys_mod_count>7</sys_mod_count>
             <sys_updated_by>Okera.Tubyangye</sys_updated_by>
             <sys_updated_on>2023-06-26 22:48:33</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-06-25 21:02:29</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>487f1d9b0d6329507f4401a4a3722ec9</sys_id>
             <sys_mod_count>7</sys_mod_count>
             <sys_updated_by>Okera.Tubyangye</sys_updated_by>
             <sys_updated_on>2023-06-26 22:48:37</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2023-06-25 21:02:43</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e77f1d9b0d6329507f4401a4a3722eca</sys_id>
             <sys_mod_count>8</sys_mod_count>
             <sys_updated_by>Okera.Tubyangye</sys_updated_by>
             <sys_updated_on>2023-06-26 22:48:43</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2023-06-25 21:52:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>713aad1b0da329507f4401a4a3722e88</sys_id>
             <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>Okera.Tubyangye</sys_updated_by>
             <sys_updated_on>2023-06-26 22:48:48</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2023-06-25 21:02:52</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>198fd19b0d6329507f4401a4a3722e73</sys_id>
             <sys_mod_count>5</sys_mod_count>
             <sys_updated_by>Okera.Tubyangye</sys_updated_by>
             <sys_updated_on>2023-06-26 22:48:55</sys_updated_on>
